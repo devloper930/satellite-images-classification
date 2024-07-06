@@ -1,4 +1,4 @@
-# satellite-images-classification
+# Satellite-Images-Classification
 
 # Image Classification with TensorFlow
 
